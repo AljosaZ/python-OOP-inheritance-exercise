@@ -1,0 +1,4 @@
+{'name': 'tototo', 'last_name': 'ototot', 'height_cm': '155', 'weight_kg': '155', 'goals': 15, 'yellow_cards': 15, 'red_cards': 15}
+{'name': 'kdkdkd', 'last_name': 'dkdkdk', 'height_cm': '15', 'weight_kg': '15', 'goals': 15, 'yellow_cards': 15, 'red_cards': 15}
+{'name': 'kgkgkg', 'last_name': 'gkgkgk', 'height_cm': '155', 'weight_kg': '15', 'goals': 23, 'yellow_cards': 23, 'red_cards': 23}
+{'name': 'iriri', 'last_name': 'ririri', 'height_cm': '23', 'weight_kg': '26', 'goals': 14, 'yellow_cards': 41, 'red_cards': 14}
